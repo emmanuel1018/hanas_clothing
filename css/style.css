@@ -1,0 +1,178 @@
+.flyer{
+  width: 50%;
+  border-radius: 20%;
+}
+.nav-bar{
+  background-color: #532915;
+  padding-right: 5px;
+  border-style: double;
+  border-color: #ffffbf;
+
+}
+#features{
+  padding-bottom: 150px;
+  padding-top: 150px;
+  background-color: #ffffbf;
+  border-style: inset;
+  border-color: brown;
+
+}
+#pricing{
+  padding-bottom: 150px;
+  padding-top: 150px;
+  border-style: inset;
+  border-color: black;
+  border-top: none;
+}
+.title{
+  padding: 1%;
+}
+
+.bra{
+  font-family: "Ubuntu", sans-serif;
+font-size: 25px;
+padding: 1px 1px 1px;
+}
+h1{
+  font-size: 60px;
+  color: #532915;
+  -webkit-text-stroke: 0.3px #ffffbf;
+
+}
+.a{
+  color: #ffffbf;
+}
+#title{
+  padding-bottom: 300px;
+  padding-top: 5px;
+  border-style: inset;
+  border-color: brown;
+  border-bottom: none;
+}
+.toggle{
+  color: #ffffbf;
+}
+.shop{
+  background-color: #ffffbf;
+  color: #532915;
+  text-align: center;
+  font-weight: bold;
+  /* border-color: brown; */
+  /* border-radius: 50%; */
+  padding: 7%% 7% 7% 7%;
+  width: 230px;
+}
+.last{
+  text-align: center;
+}
+.lorem{
+  color: #ffffbf;
+    padding-bottom: 150px;
+}
+.quote{
+  color: white;
+  font-size: 150%;
+  padding-left: 50px;
+  padding-bottom: 5px;
+
+}
+.head{
+  padding: 2%;
+}
+.we{
+  color: #ffffbf;
+}
+.pic{
+  text-align: center;
+}
+.f{
+  color: #532915;
+  padding-right: 5px;
+  text-align: right;
+
+}
+.f:hover{
+  color: black;
+}
+.qo{
+  color: #532915;
+  font-weight: bold;
+}
+footer{
+     padding: 4%;
+    text-align: left;
+    background-repeat: no-repeat;
+    padding-top: 100px;
+}
+.copy{
+  font-style: oblique;
+  text-align: left;
+  font-weight: bold;
+}
+.cop{
+  text-align: center;
+  font-style: oblique;
+  font-weight: bold;
+}
+.dot{
+  color: blue;
+  opacity: inherit;
+  text-align: right;
+  font-size: 15px;
+}
+.us{
+  padding-bottom: 15px;
+  font-family: cursive;
+  text-align: left;
+  color: #532915;}
+
+.btn{
+  text-align: center;
+  color: #532915;
+  background-color: #ffffbf;
+  font-size: 30px;
+  font-family: serif;
+  font-weight: bolder;
+  border-style: double;
+  border-color: #532915;
+  margin-bottom: 2px;
+}
+#pricing{
+  padding: 2% 2%;
+  background-color: #532915;
+}
+.price{
+  border-radius: 30%;
+}
+
+.pics{
+  text-align: center;
+  width: 30%;
+
+padding-right: 10px;}
+
+
+.tag{
+  font-weight: bolder;
+  font-family: "Montserrat", sans-serif;
+  font-size: 39px;
+  color: #ffffbf;
+}
+.name{
+  font-weight: bold;
+  font-family: serif;
+  font-size: 30px;
+  padding-top: -2px;
+  color: white;
+}
+.hr{
+  border-width: thick;
+  background-color: #ffffbf;
+}
+.hrs{
+  border-width: thick;
+  background-color: brown;
+  width: 20%;
+  text-align: left;
+  margin: -bottom: 5px;
+}
